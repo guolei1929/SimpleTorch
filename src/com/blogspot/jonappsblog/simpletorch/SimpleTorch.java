@@ -1,4 +1,4 @@
-package com.blogspot.jonappsblog.simpletorch;
+package com.blogspot.jonappsblog.simpletorch; // screw this! i don't even have a website!
 
 
 import com.blogspot.jonappsblog.simpletorch.R;
