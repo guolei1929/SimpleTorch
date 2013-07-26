@@ -1,16 +1,12 @@
-Simple Torch
-====
+# Simple Torch ![icon](http://i.imgur.com/dBoSa.png)
+A simple flashlight app for Android.<br/>
+It uses your camera's LED flashlight to let you see in the dark.
 
-What is this?
-==
-This is an app for Android phones.
+#### What permissions does this app need?
+* Camera
 
-What does this app?
-==
-It is a torch. It uses your camera's LED flashlight to let you see in the dark.
+    > Required to access the flashlight.
 
+#### Why? There are plenty of other flashlight apps.
 I created this app because I couldn't find a torch app that starts up fast and requires minimum permissions.
-
-What permissions does this app need?
-==
-Only the camera permission. It is required to access the flashlight.
+> _most of the other apps want to know your location and other things for no reason..._
